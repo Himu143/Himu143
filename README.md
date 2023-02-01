@@ -1,6 +1,5 @@
 ### Hi there 👋
-**Himu143/Himu143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### I am Kazi Tajul Islam
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Software Testing...
