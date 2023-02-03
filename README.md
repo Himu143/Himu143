@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 ### I am Kazi Tajul Islam
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on Software Testing...
 - 🌱 I’m currently learning SQA Manual Testing and Automation...
