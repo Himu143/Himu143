@@ -17,7 +17,7 @@ API Testing tools: Postman, Newman
 Language : Java         
 Database Language  : MySQL
 
-Skills: Manual Testing/ API Testing / Performance Testing / JAVA
+Skills: Manual Testing/ API Testing / Performance Testing / JAVA / HTML / CSS / PHP
 
 - 🔭 I’m currently working on Software Testing 
 - 🌱 I’m currently learning Software Quality Assurance 
