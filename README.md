@@ -4,19 +4,20 @@
 
 I am very  passionate about  Software Quality Assurance, 
 
-• Have expertise in Project coordinating , Project management, Manual Testing, Security Testing, Requirement analysis, Test report creating , System Testing , White box  testing etc.
-•  Have well presentation skill with the ability of multi-tasking in multi-layers of engineering, leading capabilities and team management
+- Have expertise in Project coordinating , Project management, Manual Testing, Security Testing, Requirement analysis, Test report creating , System Testing , Bug report creating  etc.
 
-•I am Hardworking, well performer in  under pressure, quick learner, passionate, and dedicated to my work responsibilities
+- Have well presentation skill with the ability of multi-tasking in multi-layers of engineering, leading capabilities and team management
+
+- I am Hardworking, well performer in  under pressure, quick learner, passionate, and dedicated to my work responsibilities
 
 Expertise:
 Manual testing: (smoke & sanity testing , System testing, Regression testing , UAT, Usability testing.
 Performance Testing Tool: Jmeter
 API Testing tools: Postman, Newman
 Language : Java         
-Database Language  : SQL, MySQL ,Oracle
+Database Language  : MySQL
 
-Skills: Manual Testing/ API Testing / Performance Testing / HTML / CSS / JAVA /
+Skills: Manual Testing/ API Testing / Performance Testing / JAVA
 
 - 🔭 I’m currently working on Software Testing 
 - 🌱 I’m currently learning Software Quality Assurance 
