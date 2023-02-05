@@ -1,8 +1,7 @@
-### Hi there 👋, My name is Kazi Tajul Islam
-#### Software Quality Assurance
+### Hi there 👋,
+### My name is Kazi Tajul Islam
+### I am very  passionate about  Software Quality Assurance, 
 ![Software Quality Assurance](https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg)
-
-I am very  passionate about  Software Quality Assurance, 
 
 - Have expertise in Project coordinating , Project management, Manual Testing, Security Testing, Requirement analysis, Test report creating , System Testing , Bug report creating  etc.
 
