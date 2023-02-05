@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Kazi Tajul Islam
 #### Software Quality Assurance
-![Software Quality Assurance](https://thumbs.dreamstime.com/b/sqa-software-quality-assurance-acronym-business-concept-background-sqa-software-quality-assurance-acronym-202400116.jpg)
+![Software Quality Assurance](https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg)
 
 I am very  passionate about  Software Quality Assurance, 
 
