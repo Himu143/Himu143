@@ -26,7 +26,7 @@ Skills: Manual Testing/ API Testing / Performance Testing / JAVA / HTML / CSS / 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Himu143)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/kazi-tajul-islam-6535791b6//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/mihirislam//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/kazitajulilslam6)  
-
+>
 
 
 
@@ -35,5 +35,5 @@ Skills: Manual Testing/ API Testing / Performance Testing / JAVA / HTML / CSS / 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=himu143&show_icons=true&locale=en&layout=compact" alt="himu143" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himu143&" alt="himu143" /></p>
-
+<img src="https://komarev.com/ghpvc/?username=himu143&label=Profile%20views&color=0e75b6&style=flat" alt="himu143" />
 
