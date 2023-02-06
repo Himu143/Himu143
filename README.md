@@ -3,7 +3,7 @@
 ### I am very  passionate about  Software Quality Assurance, 
 ![Software Quality Assurance](https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg)
 
-- Have expertise in Project coordinating , Project management, Manual Testing, Security Testing, Requirement analysis, Test report creating , System Testing , Bug report creating  etc.
+- Have expertise Manual Testing, Black box Testing, Requirement analysis, Test report creating , System Testing , Bug report creating  etc.
 
 - Have well presentation skill with the ability of multi-tasking in multi-layers of engineering, leading capabilities and team management
 
