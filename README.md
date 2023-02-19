@@ -13,11 +13,11 @@ Expertise:
 Manual testing: (smoke & sanity testing , System testing, Regression testing , UAT, Usability testing.
 Performance Testing Tool: Jmeter
 API Testing tools: Postman, Newman
-Language : Java         
-Database Language  : MySQL
-Web Automation: Selenium, Junit
+###### Language : C, C++, Java
+###### Database Language  : MySQL
+###### Web Automation: Selenium, Junit
 
-Skills: Manual Testing/ API Testing / Performance Testing / JAVA / HTML / CSS / PHP
+###### Skills: Manual Testing/ API Testing / Performance Testing / Automation/ JAVA / HTML / CSS / PHP
 
 - 🔭 I’m currently working on Software Testing 
 - 🌱 I’m currently learning Software Quality Assurance 
