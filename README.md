@@ -15,7 +15,8 @@ Performance Testing Tool: Jmeter
 API Testing tools: Postman, Newman
 ###### Language : C, C++, Java
 ###### Database Language  : MySQL
-###### Web Automation: Selenium, Junit
+###### Web Automation: Selenium, Junit, TestNG
+###### App Automation: Appium
 
 ###### Skills: Manual Testing/ API Testing / Performance Testing / Automation/ JAVA / HTML / CSS / PHP
 
