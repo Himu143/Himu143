@@ -10,15 +10,17 @@
 - I am Hardworking, well performer in  under pressure, quick learner, passionate, and dedicated to my work responsibilities
 
 Expertise:
-Manual testing: (smoke & sanity testing , System testing, Regression testing , UAT, Usability testing.
-Performance Testing Tool: Jmeter
-API Testing tools: Postman, Newman
-###### Language : C, C++, Java
-###### Database Language  : MySQL
-###### Web Automation: Selenium, Junit, TestNG
-###### App Automation: Appium
-
-###### Skills: Manual Testing/ API Testing / Performance Testing / Automation/ JAVA / HTML / CSS / PHP
+Manual Testing: Requirement Analysis, Test Planning, Designing, Writing and Reviewing Test Cases,
+###### - Test Execution and Evaluation, Creating Test Report, Root cause analysis & Bug Reporting using test management tools.
+###### - Performance Testing Tool: JMeter
+###### - API Testing Tool: Postman, Newman, Rest Assured
+###### - Web Automation Testing Tools: Selenium, TestNG, Junit, Cucumber
+###### - App Automation Testing Tools: Appium, Android Studio
+###### - Concepts: SDLC, STLC, OOP
+###### - Programming Language: C, C++, Java
+###### - Database: MySQL
+###### - Source and Version Control: GitHub
+#####  Skills: Manual Testing/ API Testing / Performance Testing / Web Automation/ App Automation / JAVA / HTML / CSS / PHP
 
 - 🔭 I’m currently working on Software Testing 
 - 🌱 I’m currently learning Software Quality Assurance 
