@@ -22,7 +22,7 @@ Manual Testing: Requirement Analysis, Test Planning, Designing, Writing and Revi
 ###### - Source and Version Control: GitHub
 #####  Skills: Manual Testing/ API Testing / Performance Testing / Web Automation/ App Automation / JAVA / HTML / CSS / PHP
 
-- 🔭 I’m currently working on Software Testing 
+- 🔭 I’m currently working  at Inneed Intelligence Cloud as TestOps Engineer
 - 🌱 I’m currently learning Software Quality Assurance 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about Software Testing 
