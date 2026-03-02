@@ -14,16 +14,16 @@ Manual Testing: Requirement Analysis, Test Planning, Designing, Writing and Revi
 ###### - Test Execution and Evaluation, Creating Test Report, Root cause analysis & Bug Reporting using test management tools.
 ###### - Performance Testing Tool: JMeter
 ###### - API Testing Tool: Postman, Newman, Rest Assured
-###### - Web Automation Testing Tools: Selenium, TestNG, Junit, Cucumber
+###### - Web Automation Testing Tools: Selenium, TestNG, Junit, Cucumber, Cypress, Playwright
 ###### - App Automation Testing Tools: Appium, Android Studio
+###### - CAPI Automation Testing Tools: Postman, Cypress , Playwright, Rest Assured
 ###### - Concepts: SDLC, STLC, OOP
 ###### - Programming Language: C, C++, Java
 ###### - Database: MySQL
 ###### - Source and Version Control: GitHub
 #####  Skills: Manual Testing/ API Testing / Performance Testing / Web Automation/ App Automation / JAVA / HTML / CSS / PHP
 
-- 🔭 **I’m currently working  at Inneed Intelligence Cloud as TestOps Engineer**
-- 🌱 I’m currently learning Software Quality Assurance 
+- 🔭 **I’m currently working  at Inneed Intelligence Cloud as Associate TestOps Engineer**
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about Software Testing 
 - 📫 How to reach me: kazitajulislam6@gmail.com 
